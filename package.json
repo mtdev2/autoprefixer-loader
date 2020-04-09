@@ -13,9 +13,15 @@
     "url": "https://github.com/passy/autoprefixer-loader/issues"
   },
   "dependencies": {
+
+    "autoprefixer": "^6.0.2",
+    "loader-utils": "^2.0.0",
+    "postcss": "^5.0.4",
+
     "autoprefixer": "^9.7.6",
     "loader-utils": "^0.2.11",
     "postcss": "^7.0.27",
+depfu/update/npm/loader-utils-2.0.0
     "postcss-safe-parser": "^1.0.1"
   },
   "devDependencies": {
